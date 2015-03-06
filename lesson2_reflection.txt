@@ -1,0 +1,14 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+A:
+ 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+2.staging area stores files whose commit are needed to be added/stored & repository save the commits & changes in those files
+
+3.How can you use the staging area to make sure you have one commit per logical change?
+A: 
+
+4.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A:to track how different kind of changes to code effect the overall software, branches can help to test features without affecting original
+
+5.How do the diagrams help you visualize the branch structure?
+A: diagram(graph) of history of commits & branches always help in knowing about the recent devlopment stage of each feature & main code
